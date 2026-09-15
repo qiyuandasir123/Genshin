@@ -1,6 +1,6 @@
 #include <windows.h>
 #include <stdio.h>
 int main (){
-    printf("try\n");
+    printf("try");
     return 0;
 }
